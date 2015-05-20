@@ -1,0 +1,5 @@
+name = Title Case
+description = Changes case of input
+package = Brett and Kenna's Creations
+core = 7.x
+files[] = title_case.module
